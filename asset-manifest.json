@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tourism-attraction-review/static/css/main.6e6c0007.chunk.css",
+    "main.js": "/tourism-attraction-review/static/js/main.f712d16a.chunk.js",
+    "main.js.map": "/tourism-attraction-review/static/js/main.f712d16a.chunk.js.map",
+    "runtime-main.js": "/tourism-attraction-review/static/js/runtime-main.b51a5c7c.js",
+    "runtime-main.js.map": "/tourism-attraction-review/static/js/runtime-main.b51a5c7c.js.map",
+    "static/js/2.ffeefc76.chunk.js": "/tourism-attraction-review/static/js/2.ffeefc76.chunk.js",
+    "static/js/2.ffeefc76.chunk.js.map": "/tourism-attraction-review/static/js/2.ffeefc76.chunk.js.map",
+    "index.html": "/tourism-attraction-review/index.html",
+    "static/css/main.6e6c0007.chunk.css.map": "/tourism-attraction-review/static/css/main.6e6c0007.chunk.css.map",
+    "static/js/2.ffeefc76.chunk.js.LICENSE.txt": "/tourism-attraction-review/static/js/2.ffeefc76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b51a5c7c.js",
+    "static/js/2.ffeefc76.chunk.js",
+    "static/css/main.6e6c0007.chunk.css",
+    "static/js/main.f712d16a.chunk.js"
+  ]
+}
